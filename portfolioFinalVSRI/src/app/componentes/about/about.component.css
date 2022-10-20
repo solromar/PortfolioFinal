@@ -1,0 +1,45 @@
+/********** CSS About **********/
+
+.about {
+  position: relative;
+  width: 100%;
+  margin: -45px 0 45px 0;
+}
+
+.about .col-lg-6 {
+  padding: 0;
+}
+
+.about .section-header {
+  margin-bottom: 30px;
+}
+
+.about .about-img {
+  position: relative;
+  height: 100%;
+}
+
+.about .about-img img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about .about-content {
+  padding: 0 60px;
+}
+
+.about .about-text p {
+  font-size: 16px;
+}
+
+
+
+
+
+@media (max-width: 991.98px) {
+  .about .about-content {
+      padding: 45px 15px 0 15px;
+  }
+}
