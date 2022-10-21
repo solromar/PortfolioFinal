@@ -17,7 +17,7 @@ import { SocialComponent } from './componentes/social/social.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
 import { FormComponent } from './componentes/form/form.component';
 import { FooterComponent } from './componentes/footer/footer.component';
-import { LoaderComponent } from './componentes/loader/loader.component';
+
 
 
 @NgModule({
@@ -33,7 +33,7 @@ import { LoaderComponent } from './componentes/loader/loader.component';
     EducacionComponent,
     FormComponent,
     FooterComponent,
-    LoaderComponent,
+
 
   ],
   imports: [
