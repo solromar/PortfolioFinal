@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import Typed from 'typed.js';
 
 
 @Component({
@@ -12,6 +12,8 @@ export class LoaderComponent implements OnInit {
   constructor() { }
 
    ngOnInit(): void {
+    
+
   }
 
 }
